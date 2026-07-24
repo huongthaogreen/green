@@ -5,7 +5,7 @@ window.SITE_DATA = {
       icon: '✦',
       title: 'Tư vấn – Thiết kế',
       short: 'Khảo sát, định hướng phong cách và xây dựng hồ sơ cảnh quan bám sát thực tế.',
-      image: 'assets/images/service-01.jpg',
+      image: 'assets/images/service-design.svg',
       bullets: [
         'Thiết kế sân vườn biệt thự',
         'Thiết kế cảnh quan nhà phố',
@@ -19,7 +19,7 @@ window.SITE_DATA = {
       icon: '▦',
       title: 'Thi công cảnh quan',
       short: 'Tổ chức thi công đồng bộ, kiểm soát chất lượng cây, vật tư và tiến độ.',
-      image: 'assets/images/service-02.jpg',
+      image: 'assets/images/service-build.jpg',
       bullets: [
         'Thi công cây xanh – thảm cỏ',
         'Thi công bồn cây, bó vỉa',
@@ -33,7 +33,7 @@ window.SITE_DATA = {
       icon: '❧',
       title: 'Bảo dưỡng cây xanh',
       short: 'Chăm sóc định kỳ giúp cảnh quan ổn định, đẹp lâu dài và tối ưu chi phí.',
-      image: 'assets/images/service-03.jpg',
+      image: 'assets/images/service-care.svg',
       bullets: [
         'Cắt tỉa và tạo tán',
         'Bón phân, cải tạo đất',
@@ -49,7 +49,7 @@ window.SITE_DATA = {
       id: 'company-profile',
       title: 'Hồ sơ năng lực',
       subtitle: 'Portfolio 2026',
-      image: 'assets/images/portfolio-01.jpg',
+      image: 'assets/images/portfolio-profile.svg',
       pages: [
         'Giới thiệu doanh nghiệp',
         'Dịch vụ cốt lõi',
@@ -63,7 +63,7 @@ window.SITE_DATA = {
       id: 'process',
       title: 'Quy trình làm việc',
       subtitle: '6 bước triển khai',
-      image: 'assets/images/portfolio-02.jpg',
+      image: 'assets/images/portfolio-process.svg',
       pages: [
         'Tiếp nhận nhu cầu',
         'Khảo sát hiện trạng',
@@ -77,7 +77,7 @@ window.SITE_DATA = {
       id: 'plant-solutions',
       title: 'Giải pháp cây xanh',
       subtitle: 'Danh mục đề xuất',
-      image: 'assets/images/portfolio-03.jpg',
+      image: 'assets/images/portfolio-plants.svg',
       pages: [
         'Cây bóng mát',
         'Cây bụi – tạo hình',
@@ -102,11 +102,11 @@ window.SITE_DATA = {
       title: 'Sân vườn biệt thự',
       location: 'Khu đô thị ven sông',
       category: 'Biệt thự',
-      image: 'assets/images/project-01.jpg',
+      image: 'assets/images/project-villa.svg',
       gallery: [
-        'assets/images/project-01.jpg',
-        'assets/images/service-01.jpg',
-        'assets/images/service-03.jpg'
+        'assets/images/project-villa.svg',
+        'assets/images/service-design.svg',
+        'assets/images/service-care.svg'
       ],
       info: {
         'Loại công trình': 'Biệt thự sân vườn',
@@ -121,11 +121,11 @@ window.SITE_DATA = {
       title: 'Cảnh quan nhà phố',
       location: 'Khu dân cư trung tâm',
       category: 'Nhà phố',
-      image: 'assets/images/project-02.jpg',
+      image: 'assets/images/project-townhouse.jpg',
       gallery: [
-        'assets/images/project-02.jpg',
-        'assets/images/portfolio-03.jpg',
-        'assets/images/service-01.jpg'
+        'assets/images/project-townhouse.jpg',
+        'assets/images/portfolio-plants.svg',
+        'assets/images/service-design.svg'
       ],
       info: {
         'Loại công trình': 'Nhà phố',
@@ -140,11 +140,11 @@ window.SITE_DATA = {
       title: 'Vườn café ngoài trời',
       location: 'Khu dịch vụ',
       category: 'Thương mại',
-      image: 'assets/images/project-03.jpg',
+      image: 'assets/images/project-cafe.svg',
       gallery: [
-        'assets/images/project-03.jpg',
-        'assets/images/service-02.jpg',
-        'assets/images/portfolio-02.jpg'
+        'assets/images/project-cafe.svg',
+        'assets/images/service-build.jpg',
+        'assets/images/portfolio-process.svg'
       ],
       info: {
         'Loại công trình': 'Café sân vườn',
